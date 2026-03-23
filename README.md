@@ -72,7 +72,7 @@
   </main>
 
   <footer>
-    Feito com ❤️ por Luydi | Hospedado no GitHub Pages
+    Feito por Luydi | Hospedado no GitHub Pages
   </footer>
 </body>
 </html>
